@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-image: url(https://img.freepik.com/premium-photo/circle-lights-pastel-tone-sweet-pastel-abstract-vintage-background-pastels-bokeh-lights-defocused_87555-4683.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1715644800&semt=ais_user);
+    
+    background-size: cover; 
+    background-position: center; 
+}
+
